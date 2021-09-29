@@ -1,0 +1,19 @@
+[cmdline]
+0=
+
+[input-def]
+0=*
+
+[input2]
+0=*.old
+
+[Dir Hist New Right Panel]
+0=/home/egor
+
+[Dir Hist New Left Panel]
+0=/home/egor
+1=/home
+2=/
+3=/var
+4=/var/www
+5=/var/www/html
